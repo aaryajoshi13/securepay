@@ -1,0 +1,27 @@
+{
+  "hr_demo": {
+    "role": "HR",
+    "salt": "06350da897a0e761daf53edc3848f1c1",
+    "password_hash": "52057493bb7418c551929d6cec900cf79c1fa8da5e3ac0b9d96edb363bd42c8b"
+  },
+  "finance_demo": {
+    "role": "FINANCE",
+    "salt": "bf0567165cf849772d373e060f56679c",
+    "password_hash": "f74205c0cce943cc29077dfe1bb8e94592015477d0f461a2798d415b12db2f5c"
+  },
+  "itadmin_demo": {
+    "role": "IT_ADMIN",
+    "salt": "58426a478bfaadc83a93b29103c44811",
+    "password_hash": "5201991f4c36e248e45c6a8c02ad338e5b96d1d47d8ee58870411ad8b08a1b7d"
+  },
+  "support_demo": {
+    "role": "SUPPORT",
+    "salt": "5466d37a621d58cddb1b69f8d4630c8a",
+    "password_hash": "593c07cab970c8910db580ad46220bda86c268643ef0f1a47f74715ed2de3988"
+  },
+  "guest_demo": {
+    "role": "GUEST",
+    "salt": "20ef6686fa6999c824611b4b7c87405e",
+    "password_hash": "81b4e15f3453d005100f517359b1088d69bcc60f4f1b71750c8aa01c44758134"
+  }
+}
